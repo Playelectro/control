@@ -1,0 +1,7 @@
+cv 0.0.1
+
+
+# Lockdowns
+raven-lockdown = false
+pig-lockdown = false
+bear-lockdown = false
